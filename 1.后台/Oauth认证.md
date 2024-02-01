@@ -6,3 +6,6 @@
 [Oauth认证](https://zhuanlan.zhihu.com/p/138424479)
 
 [[ChatGPT#注册]]
+
+
+![shell](/bin/zsh)
